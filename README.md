@@ -1,4 +1,4 @@
-# Monome 📦
+# invaza 🏔
 
 Bootstraps a template project with some popular packages and some pre-configured script commands. 
 
@@ -12,7 +12,7 @@ Make sure you have the following tools:
 In the terminal execute the following cmd:
 
 ```bash
-npx degit https://github.com/FranciscoMendes10866/monome [PROJECT_NAME]
+npx degit https://github.com/FranciscoMendes10866/invaza [PROJECT_NAME]
 ```
 
 ## Installation
