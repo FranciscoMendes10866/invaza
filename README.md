@@ -43,7 +43,7 @@ yarn dev
 
 If you have an API already running on the following port and address: `http://localhost:4000` and if you happen to have the following route to login the user: `http://localhost:4000/api/v1/user/sign_in`.
 
-When trying to use the API Gateway to log the user into the users' microservice, he would have to use the following route: `http://localhost:9999/auth/api/v1/user/sign_in`
+When trying to use the API Gateway to log the user into the users' microservice, you would have to use the following route: `http://localhost:9999/auth/api/v1/user/sign_in`
 
 As simple as that.
 ## License
