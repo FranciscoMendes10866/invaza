@@ -31,9 +31,12 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-http-proxy": "^1.6.2",
+    "express-rate-limit": "^5.2.6",
     "helmet": "^4.4.1",
+    "ioredis": "^4.24.3",
     "js-yaml": "^4.0.0",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "rate-limit-redis": "^2.1.0"
   },
   "scripts": {
     "dev": "ts-node-dev --cls -r tsconfig-paths/register --respawn --transpile-only --no-notify src/index.ts",
